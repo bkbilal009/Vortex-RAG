@@ -93,9 +93,9 @@ To replicate this environment on Hugging Face:
 ### 🌐 Connect with my Journey
 | Platform | Link |
 | :--- | :--- |
-| **GitHub** | [📂 View My Repositories]() |
-| **LinkedIn** | [💼 Professional Network]((https://www.linkedin.com/in/muhammad-bilal-dev/)) |
-| **Hugging Face** | [🚀 Live Demo](https://huggingface.co/spaces/bkbilal09/DocuVortex/tree/main) |
+| **GitHub** | [📂 View My Repositories](https://github.com/bkbilal009/Vortex-RAG) |
+| **LinkedIn** | [💼 Professional Network]([YOUR_LINK_HERE](https://www.linkedin.com/in/muhammad-bilal-dev/)) |
+| **Hugging Face** | [🚀 Live Demo]([YOUR_LINK_HERE](https://huggingface.co/spaces/bkbilal09/DocuVortex/tree/main)) |
 
 ---
 *Created with a focus on precision, speed, and integrity.*
